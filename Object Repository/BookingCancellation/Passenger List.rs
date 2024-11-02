@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Passenger List</name>
+   <tag></tag>
+   <elementGuidId>c4c36949-b0c9-48de-82fb-11a705af28ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ac-item.active-row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[contains(@data-test-id,'201808091526470952669')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'NQ6077
+				MCO
+AA6340' or . = 'NQ6077
+				MCO
+AA6340')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>ac1ac466-5c82-4e8f-90e3-1b0a3c4807ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>aed58cc9-d8eb-4e67-a910-405f2ce68961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>1867975c-9cbd-46a2-abc6-7d66a7a52fcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ac-item active-row</value>
+      <webElementGuid>752eb159-214f-42c9-9934-bda1fe2885c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-rowid</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>f9fcfa38-b818-457c-afb6-7d58d1f842f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NQ6077
+				MCO
+AA6340</value>
+      <webElementGuid>ded7dc0f-83ab-4dc7-b6e7-693810a06da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;acresults_list&quot;)/ul[1]/li[@class=&quot;ac-item active-row&quot;]</value>
+      <webElementGuid>a02515ff-05c0-4642-b404-740414a470c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='acresults_list']/ul/li[3]</value>
+      <webElementGuid>7e363ccd-85fa-4480-bdd4-b5eeb1b4f0b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AA8099'])[1]/following::li[1]</value>
+      <webElementGuid>34cb5953-0ea7-4566-a713-077243dfe0c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMS'])[1]/following::li[1]</value>
+      <webElementGuid>9a66d61e-abdc-4cfc-a487-8171ce70fbc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[3]</value>
+      <webElementGuid>9180ec30-c6aa-4f93-8933-c7c837c118b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'NQ6077
+				MCO
+AA6340' or . = 'NQ6077
+				MCO
+AA6340')]</value>
+      <webElementGuid>c1272dc5-a391-4c6f-871b-ccb8889b7d7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

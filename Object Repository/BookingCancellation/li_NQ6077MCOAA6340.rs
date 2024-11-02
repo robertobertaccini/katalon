@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_NQ6077MCOAA6340</name>
+   <tag></tag>
+   <elementGuidId>f1d752fe-b8b0-4c98-8d9e-9e8a76f45870</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='acresults_list']/ul/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ac-item.active-row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>73add79a-7059-488d-9d00-50f27cc78966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>35e79ba1-ec52-4415-b02b-4588db76bb44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>2478ac8e-39d2-4440-8261-e979f13eaa75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ac-item active-row</value>
+      <webElementGuid>4ea9f260-0b6a-471b-86f7-4bc047304164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-rowid</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>2ebbebb4-ce27-4424-804d-a9a403194450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NQ6077
+				MCO
+AA6340</value>
+      <webElementGuid>0693b48f-12e6-4dc0-aea1-bf0dabf2790a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;acresults_list&quot;)/ul[1]/li[@class=&quot;ac-item active-row&quot;]</value>
+      <webElementGuid>7c3a26c5-df56-453b-8127-077b1352afa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='acresults_list']/ul/li[3]</value>
+      <webElementGuid>a5f26785-510e-4cd9-8bf6-ac0777625626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AA8099'])[1]/following::li[1]</value>
+      <webElementGuid>1f170d60-762c-41f4-9d7b-079db2791e90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMS'])[1]/following::li[1]</value>
+      <webElementGuid>170e39ce-a5f0-4b77-8067-578354594dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[3]</value>
+      <webElementGuid>6f60bb11-a807-438a-8f46-1a718b4c598f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'NQ6077
+				MCO
+AA6340' or . = 'NQ6077
+				MCO
+AA6340')]</value>
+      <webElementGuid>1a1aa5cd-d4d4-4161-8a50-00cc3bcece53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

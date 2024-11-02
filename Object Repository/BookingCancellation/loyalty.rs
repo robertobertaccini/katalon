@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>loyalty</name>
+   <tag></tag>
+   <elementGuidId>cbab40c4-5277-4b8b-bc31-a29bc344272a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@data-test-id = '202212270951170987529']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='RULE_KEY']/div/div/div/span)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content-item.content-field.item-1.remove-left-spacing.remove-right-spacing.flex > div.field-item.dataValueRead > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>455a25a9-ecd2-4596-b198-4bde35e2a469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>202212270951170987529</value>
+      <webElementGuid>94d5f804-b935-4f40-be3a-16230d084cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Silver</value>
+      <webElementGuid>ccf925c0-7c28-4f00-af2f-99e589313119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HARNESS_CONTENT&quot;)/div[@class=&quot;workarea-view-scroll-wrapper&quot;]/section[@class=&quot;workarea-view-content&quot;]/div[@id=&quot;RULE_KEY&quot;]/span[@class=&quot;inspector-span&quot;]/div[@id=&quot;RULE_KEY&quot;]/span[@class=&quot;inspector-span&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;flex content layout-content-inline  content-inline  main-page&quot;]/div[@class=&quot;content-item content-layout item-2 remove-all-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-inline  content-inline  main-content-wrapper position-relative flex-nowrap&quot;]/div[@class=&quot;content-item content-layout item-1 remove-all-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-simple_list  content-simple_list  sticker&quot;]/div[@class=&quot;content-item content-sub_section item-4 remove-all-spacing flex flex-row min-height-0&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;layout layout-noheader layout-noheader-default  clear-floated-layouts&quot;]/div[@class=&quot;layout-body clearfix&quot;]/div[@class=&quot;flex content layout-content-stacked  content-stacked  case-action-area&quot;]/div[@class=&quot;content-item content-layout item-3 remove-top-spacing remove-left-spacing remove-right-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-inline  content-inline  nowrap&quot;]/div[@class=&quot;content-item content-sub_section item-1 remove-all-spacing flex flex-row flex-grow-1&quot;]/div[@id=&quot;pyFlowActionHTML&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;flex content layout-content-stacked  content-stacked  content-items-maxwidth&quot;]/div[@class=&quot;content-item content-field item-1 remove-left-spacing remove-right-spacing flex&quot;]/div[@class=&quot;field-item dataValueRead&quot;]/span[1]</value>
+      <webElementGuid>67389ebf-7caa-4c54-b4f1-45cd718ed5c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='RULE_KEY']/div/div/div/span)[3]</value>
+      <webElementGuid>78628c5c-5fdb-4f36-8070-418dec93b65d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='loyalty'])[1]/following::span[1]</value>
+      <webElementGuid>672ea866-916e-44a3-8da7-1c291f237d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Due'])[2]/following::span[3]</value>
+      <webElementGuid>fdf7cf70-b1c2-4136-a775-6ab6901c4245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Booking'])[1]/preceding::span[1]</value>
+      <webElementGuid>736551df-bca8-49f5-ab85-c7d383f1608c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pnr'])[1]/preceding::span[1]</value>
+      <webElementGuid>79e02c51-9ba1-4e58-b7d0-86d35ad700f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Silver']/parent::*</value>
+      <webElementGuid>df3ad536-346f-4cc4-95a1-cf84b9181f86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div[3]/div/div/div/div/div/div/div/span</value>
+      <webElementGuid>6437df94-a293-4650-af27-f95c6315582e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Silver' or . = 'Silver')]</value>
+      <webElementGuid>cc007610-51cd-434d-bb6f-f9a8a53ed1e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

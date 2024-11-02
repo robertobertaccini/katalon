@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Assignment</name>
+   <tag></tag>
+   <elementGuidId>8a340a54-927f-49e3-825f-e4a04e0d9ac0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='RULE_KEY']/div/div[2]/div/div/div/div/span)[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@data-test-id = '20190208081744082517799']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.heading_3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>24d9b568-c683-46a5-ad8c-a102096884e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>20190208081744082517799</value>
+      <webElementGuid>27938249-336f-4d06-8119-393f9654dd7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>heading_3</value>
+      <webElementGuid>832070bb-1859-49a2-a7ac-844bee487658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Check Platinum</value>
+      <webElementGuid>cb090686-4857-4750-aa94-6846753a880d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HARNESS_CONTENT&quot;)/div[@class=&quot;workarea-view-scroll-wrapper&quot;]/section[@class=&quot;workarea-view-content&quot;]/div[@id=&quot;RULE_KEY&quot;]/span[@class=&quot;inspector-span&quot;]/div[@id=&quot;RULE_KEY&quot;]/span[@class=&quot;inspector-span&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;flex content layout-content-inline  content-inline  main-page&quot;]/div[@class=&quot;content-item content-layout item-2 remove-all-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-inline  content-inline  main-content-wrapper position-relative flex-nowrap&quot;]/div[@class=&quot;content-item content-layout item-1 remove-all-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-simple_list  content-simple_list  sticker&quot;]/div[@class=&quot;content-item content-sub_section item-4 remove-all-spacing flex flex-row min-height-0&quot;]/div[@id=&quot;RULE_KEY&quot;]/span[@class=&quot;inspector-span&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@id=&quot;EXPAND-OUTERFRAME&quot;]/div[@class=&quot;layout-body clearfix&quot;]/div[@class=&quot;rdlWrapperDiv&quot;]/div[@class=&quot;content    flex  layout-content-stacked content-stacked list-border-b-standard progressive-onclick&quot;]/div[@class=&quot;content-item content-sub_section item-1 flex flex-row&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;flex content layout-content-inline_middle  content-inline_middle auto-width-column flex-grow-1-item-2 flex-nowrap flex-none-item-1 flex-none-item-3&quot;]/div[@class=&quot;content-item content-layout item-2 remove-top-spacing remove-left-spacing remove-right-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-simple_list  content-simple_list  min-height-0-item-2&quot;]/div[@class=&quot;content-item content-layout item-1 remove-all-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-inline_middle  content-inline_middle  line-height-1&quot;]/div[@class=&quot;content-item content-field item-1 remove-top-spacing remove-left-spacing flex flex-row line-height-1 dataValueRead&quot;]/span[@class=&quot;heading_3&quot;]</value>
+      <webElementGuid>64b67141-1ac1-4e70-9a22-07b2fc0c838c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='RULE_KEY']/div/div[2]/div/div/div/div/span)[1]</value>
+      <webElementGuid>3c36652b-0def-4847-a17e-6048e21a87f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D'])[1]/following::span[1]</value>
+      <webElementGuid>2df72a89-2df7-4433-988a-dffaf2041337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To do'])[1]/following::span[1]</value>
+      <webElementGuid>86a94d4f-522d-4819-a97c-bc9c31db89a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refund Approval (Refund Approval)'])[1]/preceding::span[1]</value>
+      <webElementGuid>e27aa4bb-a0ff-4fa1-8f83-19c85c79c0b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[2]/preceding::span[4]</value>
+      <webElementGuid>4fba7bfa-7f75-4378-a2ce-9837b6586f07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Check Platinum']/parent::*</value>
+      <webElementGuid>f37152ef-374e-46db-b2bf-bcc26a1e50d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>ffdda1b8-4489-4ca3-83a6-0ca58865a333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Check Platinum' or . = 'Check Platinum')]</value>
+      <webElementGuid>8da200a3-d21d-4b25-af28-d009a644a7c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

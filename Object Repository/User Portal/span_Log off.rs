@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Log off</name>
+   <tag></tag>
+   <elementGuidId>6b22eca4-185e-4f56-8f57-6801024538bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Log off']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>26b46ea3-4333-4b9b-b29b-e786bead7911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item-title</value>
+      <webElementGuid>51f6e27b-0620-4938-aebb-3a1b96b95a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click</name>
+      <type>Main</type>
+      <value>..</value>
+      <webElementGuid>b08d528e-4625-4e43-b22a-4839c6f34ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log off</value>
+      <webElementGuid>08c6e0b3-c4f2-4bd1-b0f7-0d2a26fa5c9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pyNavigation1676375770532&quot;)/li[@class=&quot;menu-item menu-item-enabled menu-item-active&quot;]/a[@class=&quot;menu-item-anchor&quot;]/span[@class=&quot;menu-item-title-wrap&quot;]/span[@class=&quot;menu-item-title&quot;]</value>
+      <webElementGuid>6e31167a-767b-49f9-9175-a6a50401cd3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='pyNavigation1676375770532']/li[3]/a/span/span</value>
+      <webElementGuid>e8ff1ec9-2b8f-43c0-9280-04c3468f98aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About this application'])[1]/following::span[2]</value>
+      <webElementGuid>b25de1c9-43d9-41c6-9b51-dc729b26efb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification preferences'])[1]/following::span[4]</value>
+      <webElementGuid>26ba137d-dbf9-4232-9bfb-aa5efda18110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log off']/parent::*</value>
+      <webElementGuid>f9b4833c-fdaf-43d2-a17e-214609894e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/ul/li[3]/a/span/span</value>
+      <webElementGuid>1c186665-a45f-41b9-b5fc-6c79294f79fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Log off' or . = 'Log off')]</value>
+      <webElementGuid>6dcc8a0e-b136-4968-ac58-6ca884ad676f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

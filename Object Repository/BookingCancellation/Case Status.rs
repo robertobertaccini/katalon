@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Case Status</name>
+   <tag></tag>
+   <elementGuidId>c50c73f4-925d-4909-889b-5e4cb700f621</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='RULE_KEY']/div/div/span)[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.badge_text</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@data-test-id = '2016083016191602341167946']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>238c700d-afb1-43a6-aeb3-837a8e73c4e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>2016083016191602341167946</value>
+      <webElementGuid>958b5279-ad1e-4973-a176-41e6bf457b3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge_text</value>
+      <webElementGuid>9ad1a6ae-a5c1-4c03-8467-04adcd13cc0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pending-Approval</value>
+      <webElementGuid>6eafc69a-b1ca-4319-882d-a599e35b9f11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HARNESS_CONTENT&quot;)/div[@class=&quot;workarea-view-scroll-wrapper&quot;]/section[@class=&quot;workarea-view-content&quot;]/div[@id=&quot;RULE_KEY&quot;]/span[@class=&quot;inspector-span&quot;]/div[@id=&quot;RULE_KEY&quot;]/span[@class=&quot;inspector-span&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;flex content layout-content-inline  content-inline  main-page&quot;]/div[@class=&quot;content-item content-layout item-1 remove-all-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-default  content-default  summary-pane&quot;]/div[@class=&quot;content-item content-layout item-3 remove-bottom-spacing remove-right-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-default  content-default  scrollable-summary-pane flex-nowrap&quot;]/div[@class=&quot;content-item content-layout item-1 remove-all-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-default  content-default&quot;]/div[@class=&quot;content-item content-sub_section item-1 remove-top-spacing remove-left-spacing remove-right-spacing flex flex-row&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;flex content layout-content-stacked_with_labels_left  content-stacked_with_labels_left&quot;]/div[@class=&quot;content-item content-sub_section item-1 flex&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;flex content layout-content-inline_middle  content-inline_middle&quot;]/div[@class=&quot;content-item content-field item-1 remove-bottom-spacing remove-right-spacing flex flex-row badge-bg-wait centered dataValueRead&quot;]/span[@class=&quot;badge_text&quot;]</value>
+      <webElementGuid>1c986cd9-5706-4017-a539-74b05a358a81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='RULE_KEY']/div/div/span)[7]</value>
+      <webElementGuid>c316b190-bcef-42f1-943f-c7a4b4312de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::span[1]</value>
+      <webElementGuid>3c6c9497-0bdf-46af-9b00-e0b7e16335bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priority'])[1]/following::span[1]</value>
+      <webElementGuid>6d04d7f1-e494-47b1-b5e6-ec6cf9e0692a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created'])[1]/preceding::span[2]</value>
+      <webElementGuid>6ad66592-66a9-403a-9d64-3762c09806f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Updated'])[1]/preceding::span[4]</value>
+      <webElementGuid>9d23121d-89c6-4aee-b1dd-be8aa5d51d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pending-Approval']/parent::*</value>
+      <webElementGuid>f55772f1-4980-4d9c-864f-71fa8d3f0fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>d70003ba-9581-46b6-8d1b-4a1baf4b5c3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pending-Approval' or . = 'Pending-Approval')]</value>
+      <webElementGuid>e750eaa5-ae8a-4336-b5ac-e0684b2814cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

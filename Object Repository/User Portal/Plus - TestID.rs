@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Plus - TestID</name>
+   <tag></tag>
+   <elementGuidId>571b0f40-65b5-4ec8-b569-7d5c41829235</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-test-id='201812201359010458611']&quot;</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'menu-item-icon-imageclass pi pi-plus']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.menu-item-icon-imageclass.pi.pi-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6a7df463-3f4d-40dd-9b7e-2682d99315c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>a1bf913c-a3ff-4004-adfb-a7ba8a4f54e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item-icon-imageclass pi pi-plus</value>
+      <webElementGuid>b3ae0ce8-4f68-49f0-8d1e-fdb52f0b78c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click</name>
+      <type>Main</type>
+      <value>..</value>
+      <webElementGuid>f350098b-3771-4275-80bf-8e7722345b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-$PpyNavigation1677404699179$ppyElements$l1&quot;)/a[@class=&quot;menu-item-anchor menu-item-expand&quot;]/span[@class=&quot;menu-item-image-wrapper&quot;]/span[@class=&quot;menu-item-icon-imageclass pi pi-plus&quot;]</value>
+      <webElementGuid>470c8977-8b64-49d8-be18-18f0d92adcf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-$PpyNavigation1677404699179$ppyElements$l1']/a/span/span</value>
+      <webElementGuid>11891ba9-0b65-4425-828d-1f8de340a95a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>0c645848-f99e-4f7e-8883-78e43c34d849</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

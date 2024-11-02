@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>New BookingCancellationDemo</name>
+   <tag></tag>
+   <elementGuidId>2dbcf689-4703-47de-8bce-6a6f0b04f6dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='$PpyNavigation1677404699179$ppyElements$l1']/li[3]/a/span/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(text() = 'BookingCancellationDemo' or . = 'BookingCancellationDemo')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a8ab6af4-a8cb-4914-8178-66672188d134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item-title</value>
+      <webElementGuid>06a75a75-ee57-4e70-b3c7-f158d618b7a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click</name>
+      <type>Main</type>
+      <value>..</value>
+      <webElementGuid>1dd1f4c5-dc98-435f-bfcc-fe505404732b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BookingCancellationDemo</value>
+      <webElementGuid>02192397-230d-4209-9cde-143c0602fc6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;$PpyNavigation1677404699179$ppyElements$l1&quot;)/li[@class=&quot;menu-item menu-item-enabled menu-item-active&quot;]/a[@class=&quot;menu-item-anchor&quot;]/span[@class=&quot;menu-item-title-wrap&quot;]/span[@class=&quot;menu-item-title&quot;]</value>
+      <webElementGuid>e8ffcd9e-928d-4b19-a044-85ecf34732b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='$PpyNavigation1677404699179$ppyElements$l1']/li[3]/a/span/span</value>
+      <webElementGuid>cede9dd2-58af-44d6-9287-21d3be894dd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[2]/following::span[2]</value>
+      <webElementGuid>07fbb4e7-a498-4f9b-a2f4-8fd0af7204d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/following::span[6]</value>
+      <webElementGuid>fd5715e1-bfc3-43bc-a4c2-2ddda8e508c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::span[3]</value>
+      <webElementGuid>9a1598f5-71ce-44fb-a891-d61aeb2b750e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::span[9]</value>
+      <webElementGuid>71922618-a9e0-4d0a-836b-3148599486f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BookingCancellationDemo']/parent::*</value>
+      <webElementGuid>4df81fe8-9ec8-49a3-bb90-b1b584c34179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span/span</value>
+      <webElementGuid>e88074c3-606e-43c0-b864-85662e77f67e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'BookingCancellationDemo' or . = 'BookingCancellationDemo')]</value>
+      <webElementGuid>59c4d3a4-f9be-4cf1-9699-b2521d04c553</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

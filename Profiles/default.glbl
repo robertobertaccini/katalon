@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://lab-03254-bos.lab-internal.pega.com/prweb/app/FlightManagementSolTest/'</initValue>
+      <name>TargetURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTUser@flightmgmt.com'</initValue>
+      <name>UserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Merda2024!'</initValue>
+      <name>PassWord</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'B-4028'</initValue>
+      <name>CaseID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTApprover@flightmgmt.com'</initValue>
+      <name>UserNameApprover</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Minkia2023!'</initValue>
+      <name>PasswordApprover</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
