@@ -4,10 +4,12 @@
    <name>FlightManagement</name>
    <tag></tag>
    <UUID>dfa11f90-e9e8-4520-9679-02c4710cf419</UUID>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>10.0.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\bertr\git\devopsbootcamp\katalon\FlightManagement.prj</projectFileLocation>
+   <projectFileLocation>C:\GIT\katalon\FlightManagement.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

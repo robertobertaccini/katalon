@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'full application URL'</initValue>
+      <initValue>'SERVER/prweb'</initValue>
       <name>TargetURL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -16,7 +16,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'ChangeMe2024!'</initValue>
+      <initValue>'PASSWORD'</initValue>
       <name>PassWord</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -31,7 +31,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Changeme2024!'</initValue>
+      <initValue>'PASSWORD'</initValue>
       <name>PasswordApprover</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
